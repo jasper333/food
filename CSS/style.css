@@ -312,7 +312,15 @@ h3:after {
 	float: left;
 }
 
-
+header { 
+	background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)), url(../img/food.jpg); 
+	height: 100vh; 
+	background-position: center center; 
+	background-size: cover; 
+	color: #ffffff; 
+	text-align: center; 
+	background-attachment: fixed;
+}
 
 
 
